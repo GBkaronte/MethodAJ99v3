@@ -6,6 +6,7 @@ Hash      : 7A7A59AD807F1B2FCCB41923447760C440122A0AD18A34A3035BB24FDEC8D32E
 
 Se requiere previamente instalar jdk 19 en Windows, Linux y Mac
 By Karonte 2023
+Software libre
 
 ============================================================================
 
